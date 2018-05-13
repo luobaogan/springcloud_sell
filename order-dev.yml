@@ -7,7 +7,7 @@ spring:
     password: Lbg672727802
     url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
 env:
-  dev4
+  dev5
 girl:
   name: lili
   age: 17
